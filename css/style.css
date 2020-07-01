@@ -139,7 +139,7 @@ hr {
 @media (max-width: 800px) {
     h1 {
         font-weight: bold;
-        font-size: 26px;
+        font-size: 24px;
 
     }
 }
@@ -216,6 +216,6 @@ hr {
 
     .table td,
     th {
-        font-size: 14px;
+        font-size: 13px;
     }
 }
